@@ -1,0 +1,67 @@
+body {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.container  {  	
+	margin: auto;  	
+	width: 600px;  	
+	background: #fff;  
+}  
+
+header h1{    
+    color: #ec183f;
+    margin-bottom: 5px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+header spam{
+    font-size: 9px;
+    font-weight: 800;
+}
+
+main>section h2 {
+    font-size: 16px;
+    font-weight: 800;
+}
+
+main>section p {
+    font-size: 12px;
+    color: #333;
+}
+
+main>section>p strong {
+    font-weight: 900;
+}
+
+main>section ol{
+    font-size: 12px;
+    color: #333;
+}
+
+main>section figure{
+    margin: 0;
+}
+
+main>section>figure img{
+    width: 100%;
+}
+
+footer {
+    margin-top: 50px;
+    border-top: 1px solid #ccc;
+}
+
+footer ul{
+    text-align: center;
+}
+
+footer>ul li {
+    display: inline-block;
+    padding: 5px;
+}
+
+footer>ul>li>a img{
+    width: 30px;
+}
+
